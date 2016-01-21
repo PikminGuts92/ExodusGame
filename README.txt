@@ -6,4 +6,4 @@ Each player has four pegs which start in the home position. You must first roll 
 
 
 How To Win:
-Move all of four of your pegs to the finish position.
+Advance all four of your pegs to the finish position.
